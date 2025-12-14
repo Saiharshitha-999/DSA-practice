@@ -1,3 +1,8 @@
+// Check if Array Is Sorted and Rotated
+// Leetcode-1752
+// Optimized approach
+// Time complexity : O(n) , Space Complexity : O(1)
+
 package Arrays;
 
 import java.util.Scanner;
