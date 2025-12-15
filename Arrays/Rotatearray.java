@@ -1,3 +1,7 @@
+// Leetcode 189
+// Rotate Array
+// This is th optimized approach solved using reverse method 
+// Time complexity : O(n) , Space Complexity: O(1)
 package Arrays;
 import java.util.Scanner;
 public class Rotatearray {
