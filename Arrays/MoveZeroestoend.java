@@ -1,4 +1,8 @@
-package Arrays;
+// LeetCode 283: Move Zeroes
+// Approach: Two-pointer technique
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 public class MoveZeroestoend {
     public void moveZeroes(int[] nums) {
         int i,j;
