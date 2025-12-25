@@ -1,3 +1,7 @@
+// Longest Subarray with Sum K
+// Optimized Approach (Prefix Sum + HashMap)
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 import java.util.HashMap;
 
 class Solution {
