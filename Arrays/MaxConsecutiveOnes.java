@@ -1,8 +1,4 @@
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 // LeetCode 485: Max Consecutive Ones
 // Approach: Single pass (counter-based)
 // Time Complexity: O(n)
@@ -25,8 +21,6 @@ public class MaxConsecutiveOnes {
         }
         return max;
     }
-
-    // Main method to test the solution
     public static void main(String[] args) {
         MaxConsecutiveOnes obj = new MaxConsecutiveOnes();
         int[] nums = {1, 1, 0, 1, 1, 1};
